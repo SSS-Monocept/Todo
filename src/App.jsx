@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <>Hello World Classic !!</>;
+  return <>Hello Vercel.com !!</>;
 }
 
 export default App;
